@@ -1,2 +1,2 @@
-# coq-extraction-string
+# Extraction String
 Interface to native strings.
