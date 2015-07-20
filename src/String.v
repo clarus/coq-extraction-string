@@ -1,4 +1,6 @@
 (** * Interface with the OCaml strings. *)
+Require Import ExtrOcamlBasic.
+Require Import ExtrOcamlString.
 Require Import ListString.All.
 
 (** The OCaml `string` type. *)
